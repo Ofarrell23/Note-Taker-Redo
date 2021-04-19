@@ -1,5 +1,4 @@
 # Note-Taker
-![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 # Description :
 
@@ -34,8 +33,14 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 * Being able to take persistent notes allows users to have written information available when needed.
 
 # Demo :
+https://youtu.be/voA54aj39D0
+
+![Note Taker](public/assets/NoteTaker.gif)
 
 # Application Preview : 
+![Note Taker](public/assets/NoteTaker.png)
+
+![Note Taker](public/assets/Note2.png)
 
 # Technology :
 
@@ -86,15 +91,17 @@ node server.js
 4. Application is deployed on [heroku](https://www.heroku.com/) : Heroku is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
 
 # License
-
-This project is licensed under MIT license.
-
-# Contribution
-
-Pull requests are always welcome!
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 # Questions
 
 If you have any questions about the repo, 
 [open an issue](https://github.com/Ofarrell23/Note-Taker-Redo/issues) 
 or contact me directly at [Email](mailto:keyabug@gmail.com).
+
+## Credits
+Below is a list of third-party tutorials used to help facilitate this project. There were no collaborators for this project.
+
+* [Credits] (https://www.w3schools.com/tags/att_img_alt.asp)
+* [Credits] (https://www.vikingcodeschool.com/html5-and-css3/html5-semantic-tags)
+* [Credits] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
