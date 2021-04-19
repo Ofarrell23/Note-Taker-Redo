@@ -38,7 +38,6 @@ https://youtu.be/voA54aj39D0
 ![Note Taker](public/assets/NoteTaker.gif)
 
 # Application Preview : 
-![Note Taker](public/assets/NoteTaker.png)
 
 ![Note Taker](public/assets/Note2.png)
 
